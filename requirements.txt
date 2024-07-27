@@ -1,0 +1,15 @@
+apache-airflow
+dill
+imbalanced-learn
+numpy
+pandas
+pendulum
+pip-chill
+pymongo
+python-dateutil
+python-dotenv
+PyYAML
+scikit-learn
+scipy
+xgboost
+-e .
